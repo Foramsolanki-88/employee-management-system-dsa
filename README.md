@@ -1,1 +1,2 @@
-# movie-booking-management-system-dsa
+# employee-management-system-dsa
+understanding of linked list data structure.
